@@ -8,7 +8,10 @@ The objective of this assignment is to introduce you to the cost management and 
 #### Azure: 
 <img width="1236" alt="image" src="https://github.com/user-attachments/assets/4c010021-ae80-4b96-9bd0-7816b059ec18">
 
+To monitor costs and set budgets or alerts, I would navigate to the tabs on the left under "monitoring."
+
 #### GCP: 
+<img width="1422" alt="image" src="https://github.com/user-attachments/assets/30e40b81-8100-4d12-9074-6a54d36b679f">
 
 ### 2. Set up a Hypothetical Budget
 
