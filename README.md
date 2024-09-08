@@ -22,6 +22,11 @@ To monitor costs and set budgets or alerts, I would navigate to the tabs on the 
 
 
 #### GCP: 
+<img width="1543" alt="Gbudget" src="https://github.com/user-attachments/assets/fc78fd1e-dbe5-43f9-97dd-81f7f48b119f">
+
+<img width="1543" alt="gbudget2" src="https://github.com/user-attachments/assets/7594df51-30f2-488a-b0f0-dc7ef9fe6f4b">
+
+<img width="1543" alt="gbudget3" src="https://github.com/user-attachments/assets/c04e617c-044b-4dcd-8005-9ddda2386f0c">
 
 ### 3. Investigate Cost Management Features
 
