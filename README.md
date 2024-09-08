@@ -16,6 +16,10 @@ To monitor costs and set budgets or alerts, I would navigate to the tabs on the 
 ### 2. Set up a Hypothetical Budget
 
 #### Azure: 
+<img width="1521" alt="budget" src="https://github.com/user-attachments/assets/fdcca709-8331-4992-a06d-4fc1dfaaab2e">
+
+<img width="1182" alt="budget2" src="https://github.com/user-attachments/assets/adf49803-54d0-4ea1-ad59-3904cabb749f">
+
 
 #### GCP: 
 
