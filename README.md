@@ -6,6 +6,7 @@ The objective of this assignment is to introduce you to the cost management and 
 ### 1. Explore the Cost Management Dashboards
 
 #### Azure: 
+<img width="1236" alt="image" src="https://github.com/user-attachments/assets/4c010021-ae80-4b96-9bd0-7816b059ec18">
 
 #### GCP: 
 
